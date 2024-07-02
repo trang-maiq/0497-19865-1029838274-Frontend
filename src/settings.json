@@ -1,0 +1,60 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!",
+        "title": "Yay: Ignite Your Tech Passion"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Ignite Your Tech Passion",
+  "subtitle": "Dive into the world of innovation and expertise with thrilling tech insights and hands-on tips. Join a community that celebrates curiosity and creativity in every post!"
+}
